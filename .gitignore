@@ -1,0 +1,8 @@
+**/__pycache__/**
+env/
+img/
+
+train.csv
+sample_submission.csv
+test.csv
+tes.py
